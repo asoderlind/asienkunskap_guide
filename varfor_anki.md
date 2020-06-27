@@ -1,1 +1,0 @@
-# Varför Anki?

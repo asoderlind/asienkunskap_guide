@@ -1,0 +1,1 @@
+# Japanska resurser

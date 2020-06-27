@@ -1,3 +1,0 @@
-# Installera Anki
-
-## Förberedelser
