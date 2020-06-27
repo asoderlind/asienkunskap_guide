@@ -1,3 +1,6 @@
-# Grunken
+# Matematisk grundkurs
 
-grunken är...
+## Tips 
+
+## Videos (aka björn runow)
+

@@ -7,3 +7,4 @@
 - [Att klara historian](historian.md)
 - [FAQ](faqs.md)
 - [Externa resurser](resurser.md)
+- [Kontakta oss](kontakt.md)
