@@ -1,13 +1,13 @@
 # Externa resurser
 
-## Google Translate
+* Google Translate
 
-## CSN 
+* CSN 
 
-## Y-sektionen
+* Y-sektionen
 
-## I-sektionen 
+* I-sektionen 
 
-## Bokbytargrupper
+* Bokbytargrupper
 
-## 
+*  Discord

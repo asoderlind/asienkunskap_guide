@@ -1,6 +1,7 @@
 # Språken
 
-## Filosofier
+## Anki-filosofier
+(hur tänker folk kirng anki och sitt språk)
 
 * Jacop (hemasnickrad buddhism)
 * Axel (industriell revultion)
@@ -9,6 +10,7 @@
 * Linus/David (*väldigt* avlappnad anki)
 
 ## Vittnesmål
+(hur gjorde du med språket under basåret)
 
 ## AJ/KATT 
 
