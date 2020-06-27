@@ -15,8 +15,7 @@ Det finns hundratals guider, böcker och föreläsningar som går in på ämnet 
 
 ## Asienkunskap
 
-
-Asienkunskap är...
+Asienkunskap är en ettårig förutbildning med fokus på ett av de asiatiska språken kinesiska eller japanska. Utbildningens mål är att ge studenten en övergripande kunskap av de sydostasiatiska ländernas historia, en avancerad kunskap i japanska eller kinesiska samt förbereda studenten för vidare studier till civilingenjörsutbildningarna Industriell Ekonomi eller Teknisk Fysik och Elektroteknik. (Taget från Liu.se)
 
 * utdrag från LiU
 * Vår egna syn på saken
