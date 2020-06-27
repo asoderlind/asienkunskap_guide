@@ -8,9 +8,24 @@ En viktig resurs under basåret är Anki ...
 
 Det finns hundratals guider, böcker och föreläsningar som går in på ämnet studieteknik och förklarar hur man bör organisera sina studier. Därför kommer vi inte i denna guide gå in särskilt djupt på just det ämnet.
 
+* Allmänt mål med sidan
+* Lägga emfas på anki och dess vikt
+* övriga kurser
+* Nyanserad bild genom olika "filosofier"
+
 ## Asienkunskap
 
+
 Asienkunskap är...
+
+* utdrag från LiU
+* Vår egna syn på saken
+
+## Vilka är vi?
+
+* Två studenter på Yi lol
+* Läste asienkunskap 20XX 
+* Gillar anki lol 
 
 ## Disclaimer
 
