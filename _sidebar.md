@@ -1,0 +1,8 @@
+- [Introduktion](/)
+- [Varför Anki?](varfor_anki.md)
+- [Installera anki](installera_anki.md)
+- [Att klara grunken](grunken.md)
+- [Att klara språken](spraken.md)
+- [Att klara historian](historian.md)
+- [FAQ](faqs.md)
+- [Resurser](resurser.md)
