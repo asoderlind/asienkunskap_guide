@@ -17,14 +17,15 @@ Det finns hundratals guider, böcker och föreläsningar som går in på ämnet 
 
 Asienkunskap är en ettårig förutbildning med fokus på ett av de asiatiska språken kinesiska eller japanska. Utbildningens mål är att ge studenten en övergripande kunskap av de sydostasiatiska ländernas historia, en avancerad kunskap i japanska eller kinesiska samt förbereda studenten för vidare studier till civilingenjörsutbildningarna Industriell Ekonomi eller Teknisk Fysik och Elektroteknik. (Taget från Liu.se)
 
-* utdrag från LiU
-* Vår egna syn på saken
+Ovan har vi den officiella versionen, men vad är Asienkunskap *egentligen*?
+
+'Asienkunskap' aka 'Basåret' aka 'Basienkunskap' är ett pseudo-sabbatsår med 1.5 lektioner per dag i snitt. Tanken bakom är att man ska gå vidare till en av två ingenjörslinjer enligt ovan, vilket är varför det ligger en grundkurs i matte i början av utbildningen. Denna 'grunken' är i allmänhet basårarens första seriösa mattekurs på universitetsnivå och upplevs ofta som svår, men inte omöjlig, och bör därför behandlas med respekt. (...) 
 
 ## Vilka är vi?
 
-* Två studenter på Yi lol
-* Läste asienkunskap 20XX 
-* Gillar anki lol 
+Vi är två studenter som gick 'Asienkunskap - inriktning Japan' läsåret 18/19. Efter basåret vidare till teknisk fysik, inriktning Japan ('Yi japanska'). Det viktigaste för oss är att skapa goda förutsättningar för framtida basårare så att inlärningen av respektive språk blir så rolig och smärtfri som möjligt! 
+
+Det sägs även att vi är entusiastiska när det gäller Anki.
 
 ## Disclaimer
 
