@@ -2,11 +2,11 @@
 
 ## Anki-lekar
 
-### Short-term spoken chinese + extra
+### Short-term Spoken Chinese + Extra
 
 En lek baserad på läroböckerna av samma namn. Originalet skapades av Olle specifikt för studenterna på asienkunskap, kinesiska. En kopia av originalet kan hittas [här](https://ankiweb.net/shared/info/937679552). Nedan hittas en modifierad variant med extra ord från matteläxor och annat, courtesy of Linus.
 
-**Länk:** Coming soon...
+**Länk:** Laddas ned [här](https://mega.nz/file/rIgRDIAZ#BARHyMj6iCHl1Uc_TKkl05tSISmBoA_rTpY7vRw4C7c)
 
 ## Appar
 

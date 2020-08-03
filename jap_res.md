@@ -34,6 +34,12 @@ Tänkt *endast* som komplement till grammatiken som gås igenom på lektionerna,
 
 **Länk:** Kan laddas ner [här](https://mega.nz/file/bFo3EQAD#uYLzn8YS9XAWEaHTkEZlyWHYORBIOEFkYcNqKruGyFg)
 
+### Tekniskt vokabulär
+
+En samling ord med anknytning till programmering och civilingenjörsskap samt mer eller mindre relevanta bilder och ibland ljud.
+
+**Länk:** Kan laddas ner [här](https://mega.nz/file/SIwHgIrC#AI8UOM6Ras9a0TptWnvjEj6gUCrPVwRdt1wLVoy8BtY)
+
 ### Japanska prefekturer
 
 En lek som går igenom japansk geografi.
@@ -41,6 +47,21 @@ En lek som går igenom japansk geografi.
 Notera att det är en stor flex att visa att man vet var prefekturen ligger när man frågar en japan var dem kommer ifrån.
 
 **Länk:** Kan hittas [här](https://ankiweb.net/shared/info/2639768625) 
+
+## Fonts
+
+Kopiera font-filen in i ankis "collection.media"-mapp och lägg till markerade rader till kortets Styling för att använda. Byt ut "honokamin.ttf" mot namnet på filen du använder.
+
+![font-guide](images/font-screen.png)
+
+### Honokamin
+
+<span style="font-family:honoka; font-size:2em;">吾輩は猫である</span>
+
+Ett typiskt snyggt typsnitt, ser ut som texten ovan. 
+
+
+**Länk:** Kan laddas ner [här](https://mega.nz/file/PNwXlApJ#1bYbBQoq3hoX-PQ1JIQZXLpyD-QLhqmnlPCdPCRrg6Q)
 
 ## Appar
 
