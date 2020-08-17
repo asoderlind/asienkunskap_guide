@@ -1,7 +1,7 @@
 # Språken
 
 ## Anki-filosofier
-Hur äldre elever tänker kring anki
+Hur äldre elever tänker kring anki. Om du vill bidra med en filosofi kontakta oss!
 
 ### Jacob
 

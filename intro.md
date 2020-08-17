@@ -19,7 +19,7 @@ Asienkunskap är en ettårig förutbildning med fokus på ett av de asiatiska sp
 
 Ovan har vi den officiella versionen, men vad är Asienkunskap *egentligen*?
 
-'Asienkunskap' aka 'Basåret' aka 'Basienkunskap' är ett pseudo-sabbatsår med 1.5 lektioner per dag i snitt. Tanken bakom är att man ska gå vidare till en av två ingenjörslinjer enligt ovan, vilket är varför det ligger en grundkurs i matte i början av utbildningen. Denna 'grunken' är i allmänhet basårarens första seriösa mattekurs på universitetsnivå och upplevs ofta som svår, men inte omöjlig, och bör därför behandlas med respekt. (...) 
+'Asienkunskap' aka 'Basåret' aka 'Basienkunskap' är ett ganska chill basår (om du gör din Anki) med runt 1.5 lektioner per dag i snitt. Tanken bakom är att man ska gå vidare till en av två ingenjörslinjer enligt ovan, vilket är varför det ligger en grundkurs i matte i början av utbildningen. Denna 'grunken' är i allmänhet basårarens första seriösa mattekurs på universitetsnivå och upplevs ofta som svår, men inte omöjlig, och bör därför behandlas med respekt. (...) 
 
 ## Vilka är vi?
 

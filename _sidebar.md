@@ -4,7 +4,5 @@
 - [Kinesiska resurser](kin_res.md)
 - [Att klara matematiken](grunken.md)
 - [Att klara språken](spraken.md)
-- [Att klara historian](historian.md)
-- [FAQ](faqs.md)
 - [Externa resurser](resurser.md)
 - [Kontakta oss](kontakt.md)
