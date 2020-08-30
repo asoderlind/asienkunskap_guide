@@ -8,9 +8,7 @@ En lek som innehåller de vanligaste 6000 japanska orden med tillhörande mening
 
 Perfekt för att skapa en stabil grund för sitt japanska vokabulär. Om man gör 25 nya ord från denna lek varje dag hinner man gott och väl klart med hela under basåret.
 
-**Länk:** [Här](https://mega.nz/file/zMoFiTpC#xihQudtDERsEY75eHlsFe4SrQ4Ps_XyB7sPsFIzIkWo)
-
-**Länk 2:** [Här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/Core%202k_6k%20Asienkunskap_ver2.apkg)
+**Länk:** [Här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/Core%202k_6k%20Asienkunskap_ver2.apkg)
 
 ### All in One Kanji Deck
 
