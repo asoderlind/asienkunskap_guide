@@ -10,6 +10,12 @@ Perfekt för att skapa en stabil grund för sitt japanska vokabulär. Om man gö
 
 **Länk:** [Här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/Core%202k_6k%20Asienkunskap_ver2.apkg)
 
+### Asienkunskap Japan-leken
+
+Inehåller det mesta som gås igenom under basåret.
+
+**Länk:** [Här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/Asienkunskap_Japan_v3.apkg)
+
 ### All in One Kanji Deck
 
 En lek med en hel del kanjis och all information man någonsin skulle kunna vilja ha om dem. 
