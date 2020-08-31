@@ -8,13 +8,13 @@ En lek som innehåller de vanligaste 6000 japanska orden med tillhörande mening
 
 Perfekt för att skapa en stabil grund för sitt japanska vokabulär. Om man gör 25 nya ord från denna lek varje dag hinner man gott och väl klart med hela under basåret.
 
-**Länk:** [Här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/Core%202k_6k%20Asienkunskap_ver2.apkg)
+**Länk:** [Här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/Core_2k_6k_Basien_ver3.apkg)
 
 ### Asienkunskap Japan-leken
 
 Inehåller det mesta som gås igenom under basåret.
 
-**Länk:** [Här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/Asienkunskap_Japan_v3.apkg)
+**Länk:** [Här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/Asienkunskap_Japan_v4.apkg)
 
 ### All in One Kanji Deck
 
@@ -22,7 +22,7 @@ En lek med en hel del kanjis och all information man någonsin skulle kunna vilj
 
 Görs med fördel parallellt med kanjiduggor-leken.
 
-**Länk:** Kan hittas [här](https://ankiweb.net/shared/info/798002504) 
+**Länk:** Kan hittas [här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/All_in_One_Kanji_Deck_v1.apkg) 
 
 ### Kanjiduggor
 
@@ -30,7 +30,7 @@ En lek med alla kanjis som kommer i de obligatoriska kanjiduggorna.
 
 Notera att inte alla kanjis har tillhörande exempelord och bör därför göras parallellt med ens egna ord-lek och Core 6k. Rekommenderas att göra minst 4 nya kanji per dag.
 
-**Länk:** Kan laddas ner [här](https://mega.nz/file/7IYGRaYb#T1Ty4ysIFtP9mCJYG-WrhRhYOiEOmueRcISIucF1pOg)
+**Länk:** Kan laddas ner [här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/Kanjidugga.apkg)
 
 ### Grammatik
 
