@@ -2,6 +2,12 @@
 
 ## Anki-lekar 
 
+### The one deck to rule them all (för japanerna)
+
+Den enda leken (förutom dugg-leken) som du behöver för att klara basåret (japanska). Gör den varje dag. Plug-and-play, bara att köra. Innehåller även en tom lek: '自分', som du kan lägga in egna ord i.
+
+**Länk:** Laddas ned [här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/master_words.apkg)
+
 ### Core 6k
 
 En lek som innehåller de vanligaste 6000 japanska orden med tillhörande mening, bild och uttal. 
