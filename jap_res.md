@@ -38,6 +38,12 @@ Notera att inte alla kanjis har tillhörande exempelord och bör därför göras
 
 **Länk:** Kan laddas ner [här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/Kanjidugga.apkg)
 
+### Kanjiduggor TEII44 (första japanska-kursen Yi/Ii)
+
+En lek med kanjis som kommer på duggor. All cred för leken till Stephanie Arenander!
+
+**Länk:** [Här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/09/Duggor%20TEII43.apkg)
+
 ### Grammatik
 
 En lek med många meningar från N5-N1 med tillhörande grammatiskt koncept och engelsk översättning.
@@ -50,7 +56,7 @@ Tänkt *endast* som komplement till grammatiken som gås igenom på lektionerna,
 
 En samling ord med anknytning till programmering och civilingenjörsskap samt mer eller mindre relevanta bilder och ibland ljud.
 
-**Länk:** Kan laddas ner [här](https://mega.nz/file/SIwHgIrC#AI8UOM6Ras9a0TptWnvjEj6gUCrPVwRdt1wLVoy8BtY)
+**Länk:** Kan laddas ner [här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/09/Tech.apkg)
 
 ### Japanska prefekturer
 
@@ -140,6 +146,16 @@ Samma som ovan fast med lite annorlunda sortiment.
 Streaming-sida med anime som har japanska undertexter.
 
 **Länk**: [animelon.com](https://animelon.com)
+
+## Custom Anki-addons
+
+*Anki-bulker* låter dig lägga till audio, ljud och definitioner till dina kort. Kodad av Axel.
+
+Gå in på Tools -> Add-ons -> "Install from file" och välj "anki_bulker.ankiaddon". För att lägga in media gå in i Browser, markera korten i fråga och klicka på "Edit" --> "Bulk-add xxx".
+
+Säg till om det inte fungerar!
+
+**Länk:** [Här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/09/anki_bulker.ankiaddon)
 
 ## Övriga sidor
 
