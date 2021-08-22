@@ -133,14 +133,6 @@ Sida som innehåller tecknade serier från fjärran öst.
 
 **Länk**: [rawdevart.com](https://rawdevart.com/)
 
-### Loveheaven (japansk manga)
-
-Samma som ovan fast med lite annorlunda sortiment.
-
-**OBS:** Innehåller även manga som är 18+.
-
-**Länk**: [loveheaven.net](https://loveheaven.net/)
-
 ### Animelon 
 
 Streaming-sida med anime som har japanska undertexter.
