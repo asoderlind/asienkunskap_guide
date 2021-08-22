@@ -60,16 +60,3 @@ Sammanfattning:
 * Läs böcker, läs nyheter, lyssna på podcasts, prata med utbytesstudenter, använd appar för att hitta språkpartners, titta på film med undertexter på målspråket, engagera dig i språket!
 
 * För vissa hjälper det att hamna vid en punkt varvid man har så många reviews att göra var dag att man inte skippar en dag av ren rädsla för vad det skulle innebära för nästkommande dag
-
-
-### Philip --||-- 
-### Hans (avlappnad anki)
-### Linus/David (*väldigt* avlappnad anki)
-
-
-## AJ/KATT 
-
-* disclaimer 
-* Vad det är
-* Förmodligen rätt hardcore
-* allmänna visdomar att ta 
