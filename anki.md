@@ -6,18 +6,14 @@ Anki är ett program som hanterar flashcards, vilket är den (arguably) bästa m
 
 ## Installera Anki
 
-För att installera på datorn går du till ankis hemsida och laddar ner den senaste versionen
+För att installera på datorn går du till ankis hemsida och laddar ner den senaste versionen här:
 
-![ladda ner här](https://apps.ankiweb.net/)
+[länk](https://apps.ankiweb.net/)
 
-För att installera på android laddar du ner appen Ankidroid
+För att installera på android laddar du ner appen Ankidroid här:
 
-![ladda ner här](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=sv&gl=US)
+[länk](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=sv&gl=US)
 
-För att installera på iOS laddar du ner appen Anki
+För att installera på iOS laddar du ner appen AnkiMobile Flashcards här:
 
-![ladda ner här](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387)
-
-## addons för datorn
-* heatmap 
-* darkmode
+[länk](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387)
