@@ -2,15 +2,15 @@
 
 ## Användbara länkar
 
-* [Google Translate (lol)](translate.google.se)
+* [Google Translate (lol)](https://translate.google.se)
 
-* [CSN](www.csn.se) 
+* [CSN](https://www.csn.se) 
 
-* [Y-sektionen](ysektionen.se)
+* [Y-sektionen](https://ysektionen.se)
 
 * [I-sektionen](http://www.isektionen.se/)
 
-* Bokbytargrupper: [Y-sektionen](www.facebook.com/groups/622049227837402) & [I-sektionen](www.facebook.com/groups/963718730337569)
+* Bokbytargrupper: [Y-sektionen](https://www.facebook.com/groups/622049227837402) & [I-sektionen](https://www.facebook.com/groups/963718730337569)
 
 *  Discord: [Conversation Corner](https://discord.gg/PpmpV3y)
 
