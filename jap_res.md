@@ -23,19 +23,19 @@ En lek som innehåller:
 
 Lekarna är förinställda med rekommenderat antal kanji per dag och rekommenderade inställningar. 
 
-**Länk:** Kan hittas [här](https://eastasian.studorg.liu.se/wp-content/uploads/2021/08/kanji.apkg) 
+**Länk:** Laddas ned [här](https://eastasian.studorg.liu.se/wp-content/uploads/2021/08/kanji.apkg) 
 
 ### Kanjiduggor TEII44 (första japanska-kursen Yi/Ii)
 
 En lek med kanjis som kommer på duggor. All cred för leken till Stephanie Arenander!
 
-**Länk:** [Här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/09/Duggor%20TEII43.apkg)
+**Länk:** Laddas ned [här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/09/Duggor%20TEII43.apkg)
 
 ### Tekniskt vokabulär
 
 En samling ord med anknytning till programmering och civilingenjörsskap samt mer eller mindre relevanta bilder och ibland ljud.
 
-**Länk:** Kan laddas ner [här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/09/Tech.apkg)
+**Länk:** Laddas ner [här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/09/Tech.apkg)
 
 ### Japanska prefekturer
 
