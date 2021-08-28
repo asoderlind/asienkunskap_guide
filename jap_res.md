@@ -2,55 +2,34 @@
 
 ## Anki-lekar 
 
-### The one deck to rule them all (för japanerna)
+### Japanska ord 
 
-Den enda leken (förutom dugg-leken) som du behöver för att klara basåret (japanska). Gör den varje dag. Plug-and-play, bara att köra. Innehåller även en tom lek: '自分', som du kan lägga in egna ord i.
+En lek som innehåller:
 
-**Länk:** Laddas ned [här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/master_words.apkg)
+1. En lek för dina egna ord
+2. En lek som innehåller alla ord från texter som gås igenom under basåret
+3. En lek med dem vanligaster 6000 japanska orden med trevliga bilder, ljud och meningar
 
-### Core 6k
+Lekarna är förinställda med rekommenderat antal ord per dag och rekommenderade inställningar. 
 
-En lek som innehåller de vanligaste 6000 japanska orden med tillhörande mening, bild och uttal. 
+**Länk:** Laddas ned [här](https://eastasian.studorg.liu.se/wp-content/uploads/2021/08/tango.apkg)
 
-Perfekt för att skapa en stabil grund för sitt japanska vokabulär. Om man gör 25 nya ord från denna lek varje dag hinner man gott och väl klart med hela under basåret.
+### Kanji
 
-**Länk:** [Här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/Core_2k_6k_Basien_ver3.apkg)
+En lek som innehåller:
 
-### Asienkunskap Japan-leken
+1. En lek med alla kanjis som kommer på duggorna under basåret i ordning 
+2. En lek med alla kanjis du kommer behöva i ordning av ökande obskyritet
 
-Inehåller det mesta som gås igenom under basåret.
+Lekarna är förinställda med rekommenderat antal kanji per dag och rekommenderade inställningar. 
 
-**Länk:** [Här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/Asienkunskap_Japan_v4.apkg)
-
-### All in One Kanji Deck
-
-En lek med en hel del kanjis och all information man någonsin skulle kunna vilja ha om dem. 
-
-Görs med fördel parallellt med kanjiduggor-leken.
-
-**Länk:** Kan hittas [här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/All_in_One_Kanji_Deck_v1.apkg) 
-
-### Kanjiduggor
-
-En lek med alla kanjis som kommer i de obligatoriska kanjiduggorna. 
-
-Notera att inte alla kanjis har tillhörande exempelord och bör därför göras parallellt med ens egna ord-lek och Core 6k. Rekommenderas att göra minst 4 nya kanji per dag.
-
-**Länk:** Kan laddas ner [här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/08/Kanjidugga.apkg)
+**Länk:** Kan hittas [här](https://eastasian.studorg.liu.se/wp-content/uploads/2021/08/kanji.apkg) 
 
 ### Kanjiduggor TEII44 (första japanska-kursen Yi/Ii)
 
 En lek med kanjis som kommer på duggor. All cred för leken till Stephanie Arenander!
 
 **Länk:** [Här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/09/Duggor%20TEII43.apkg)
-
-### Grammatik
-
-En lek med många meningar från N5-N1 med tillhörande grammatiskt koncept och engelsk översättning.
-
-Tänkt *endast* som komplement till grammatiken som gås igenom på lektionerna, inte alternativ. På framsidan finns grammatiken med en exempelmening. Läs meningen och förstå innebörden och hur grammatiken används. På baksidan sedan finns översättningen. Antal meningar man bör göra per dag varierar beroende på hur strikt man är med sin självrättning men kan vara värt att sikta på 10.
-
-**Länk:** Kan laddas ner [här](https://mega.nz/file/bFo3EQAD#uYLzn8YS9XAWEaHTkEZlyWHYORBIOEFkYcNqKruGyFg)
 
 ### Tekniskt vokabulär
 
