@@ -58,7 +58,7 @@ Kopiera font-filen in i ankis "collection.media"-mapp och lägg till markerade r
 Ett typiskt snyggt typsnitt, ser ut som texten ovan. 
 
 
-**Länk:** Kan laddas ner [här](https://mega.nz/file/PNwXlApJ#1bYbBQoq3hoX-PQ1JIQZXLpyD-QLhqmnlPCdPCRrg6Q)
+**Länk:** Kan laddas ned [här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/09/honokamin.ttf)
 
 ## Appar
 
@@ -69,14 +69,6 @@ Ett uppslagsverk för japanska ord baserat på JMDICT.
 Rekommenderas **starkt** med tanke på den extremt smidiga AnkiDroid-integrationen. Tyvärr ej tillgänglig på iOS vid skrivande stund.
 
 **Länk:** Kan hittas [här](https://play.google.com/store/apps/details?id=com.craxic.akebifree&hl=en_US)
-
-### Kana school (iOS)
-
-En app...
-
-### Kana Tree (andriod)
-
-En app...
 
 ### Easy Japanese news (iOS/android)
 
