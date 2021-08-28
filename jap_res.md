@@ -58,7 +58,7 @@ Kopiera font-filen in i ankis "collection.media"-mapp och lägg till markerade r
 Ett typiskt snyggt typsnitt, ser ut som texten ovan. 
 
 
-**Länk:** Kan laddas ned [här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/09/honokamin.ttf)
+**Länk:** Kan laddas ned [här](https://eastasian.studorg.liu.se/wp-content/uploads/2021/08/honokamin.ttf)
 
 ## Appar
 
