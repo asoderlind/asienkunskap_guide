@@ -109,19 +109,3 @@ Sida som innehåller tecknade serier från fjärran öst.
 Streaming-sida med anime som har japanska undertexter.
 
 **Länk**: [animelon.com](https://animelon.com)
-
-## Custom Anki-addons
-
-*Anki-bulker* låter dig lägga till audio, ljud och definitioner till dina kort. Kodad av Axel.
-
-Gå in på Tools -> Add-ons -> "Install from file" och välj "anki_bulker.ankiaddon". För att lägga in media gå in i Browser, markera korten i fråga och klicka på "Edit" --> "Bulk-add xxx".
-
-Säg till om det inte fungerar!
-
-**Länk:** [Här](https://eastasian.studorg.liu.se/wp-content/uploads/2020/09/anki_bulker.ankiaddon)
-
-## Övriga sidor
-
-* Jisho
-* kotobank
-* osv
