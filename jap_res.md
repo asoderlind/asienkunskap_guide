@@ -8,11 +8,17 @@ En lek som innehåller:
 
 1. En lek för dina egna ord
 2. En lek som innehåller alla ord från texter som gås igenom under basåret
-3. En lek med dem vanligaster 6000 japanska orden med trevliga bilder, ljud och meningar
+3. En lek med de vanligaste 6000 japanska orden med trevliga bilder, ljud och meningar
 
 Lekarna är förinställda med rekommenderat antal ord per dag och rekommenderade inställningar. 
 
 **Länk:** Laddas ned [här](https://eastasian.studorg.liu.se/wp-content/uploads/2021/08/tango.apkg)
+
+### Core 2k/6k
+
+En lek med de valigaste 6000 japanska orden med trevliga bilder, uttal och meningar
+
+**Länk** Laddas ned [här](https://eastasian.studorg.liu.se/wp-content/uploads/2021/08/Core 2k_6k Optimized Japanese Vocabulary.apkg)
 
 ### Kanji
 
