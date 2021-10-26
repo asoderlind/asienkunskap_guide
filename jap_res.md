@@ -18,7 +18,7 @@ Lekarna är förinställda med rekommenderat antal ord per dag och rekommenderad
 
 En lek med de valigaste 6000 japanska orden med trevliga bilder, uttal och meningar
 
-**Länk** Laddas ned [här](https://eastasian.studorg.liu.se/wp-content/uploads/2021/08/Core 2k_6k Optimized Japanese Vocabulary.apkg)
+**Länk** Laddas ned [här](https://eastasian.studorg.liu.se/wp-content/uploads/2021/08/Core%202k_6k%20Optimized%20Japanese%20Vocabulary.apkg)
 
 ### Kanji
 
